@@ -1,0 +1,13 @@
+How to use this skin pack for Custom Ball Merge:
+
+1. Once you download it from my official GitHub, put the folder within the game folder itself where the game launcher is (Alongside the "custom" folder, and where the "custom_skin_template" is. DO NOT PUT THIS WITHIN ANY FOLDERS.).
+
+2. Open the main game, then go to "Settings" (Gear icon).
+
+3. Click on "Custom Textures". Then, locate my skin pack for the game ("custom_deka").
+
+4. Enjoy the personalized cute gacha balls in your house! (Just kidding... Enjoy my art style!)
+
+-----
+Song BGM:
+DEKA - Agare (Acoustic Orchestra Ver.)
